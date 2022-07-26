@@ -1,0 +1,2 @@
+child_config: .swiftlint_overrides.yml
+parent_config: https://infinum.com/handbook/resources/ios/swiftlint.yml
